@@ -1,0 +1,16 @@
+
+model/checkpoint
+
+model/model\.data-00000-of-00001
+
+model/model\.index
+
+model/model\.meta
+
+traffic-signs-data\.zip
+
+traffic-signs-data/test\.p
+
+traffic-signs-data/train\.p
+
+traffic-signs-data/valid\.p
